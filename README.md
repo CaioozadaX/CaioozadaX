@@ -13,7 +13,7 @@ Atualmente focado em desenvolvimento web, com maior interesse em Front-End e int
 
 ---
 
-## 💻 Tecnologias em aprendizado
+## Tecnologias em aprendizado
 
 - JavaScript
 - React
