@@ -1,17 +1,15 @@
 # Opa, eu sou o Caio Alves
 
-🚀 Desenvolvedor Fullstack em formação.  
+Desenvolvedor Fullstack em formação.  
 Atualmente focado em desenvolvimento web, com maior interesse em Front-End e integração com APIs.
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (1º período)  
 📍 Canoinhas - Santa Catarina  
 🛰️ Trabalho como gestor de manutenção de drones na Farming Solutions  
-
-Tenho interesse em unir desenvolvimento de software com aplicações no mundo real, principalmente envolvendo drones e análise de dados.
 
 ---
 
@@ -25,13 +23,7 @@ Tenho interesse em unir desenvolvimento de software com aplicações no mundo re
 
 ---
 
-## 🚀 Projetos
-
-💡 Meus projetos atualmente são voltados para desenvolvimento web, com foco em interfaces e aplicações práticas.
-
----
-
-## 🎯 Objetivo
+## Objetivo
 
 Busco oportunidades para evoluir como desenvolvedor Fullstack, com foco em:
 - Desenvolvimento Web
@@ -41,7 +33,7 @@ Busco oportunidades para evoluir como desenvolvedor Fullstack, com foco em:
 
 ---
 
-## ⚡ Diferenciais
+## Diferenciais
 
 ✔ Experiência prática com tecnologia (drones agrícolas)  
 ✔ Vivência profissional como gestor de manutenção e resolução de problemas  
@@ -50,7 +42,7 @@ Busco oportunidades para evoluir como desenvolvedor Fullstack, com foco em:
 
 ---
 
-## 📫 Contato
+## Contato
 
 📧 caiozeraalvezss@gmail.com  
 💼 https://www.linkedin.com/in/caio-luan-alves-820633305/
